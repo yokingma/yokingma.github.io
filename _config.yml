@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://www.nodewind.cn'
 
-author: zac ma                  # change to your full name
+author: 'Zac Ma'                 # change to your full name
 
 avatar: /assets/img/avatar.jpg   # support internet resources
 
@@ -29,7 +29,7 @@ twitter:
   username:            # change to your twitter username
 
 social:
-  name: zac                  # it will shows as the copyright owner in Footer
+  name: Zac                  # it will shows as the copyright owner in Footer
   email: yoking@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
